@@ -1,0 +1,24 @@
+{
+  "name": "astaroth",
+  "version": "0.0.0",
+  "description": "TypeScript classes that build Mozilla Parser API-compliant AST's. Great for compilers.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thosakwe/astaroth.git"
+  },
+  "keywords": [
+    "ast",
+    "esprima",
+    "astaroth"
+  ],
+  "author": "Tobe O <thosakwe@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thosakwe/astaroth/issues"
+  },
+  "homepage": "https://github.com/thosakwe/astaroth#readme"
+}
